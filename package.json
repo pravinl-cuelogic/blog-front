@@ -5,7 +5,7 @@
   "description": "Small description for blog-front goes here",
   "repository": "",
   "license": "MIT",
-  "author": "",
+  "author": "Pravin Lokhande",
   "directories": {
     "doc": "doc",
     "test": "tests"

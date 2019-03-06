@@ -1,3 +1,14 @@
+```
+This project has only view which is used for RoR api back end. Emberjs front end will run on port 4200.
+RoR project run on port 3000.
+RoR project name: blog-api that you will find in repo list.
+```
+Things you may want to cover:
+
+* npm version 6.4.0
+
+* ember-cli version 3.8.1
+
 # blog-front
 
 This README outlines the details of collaborating on this Ember application.
@@ -19,6 +30,9 @@ You will need the following things properly installed on your computer.
 * `npm install`
 
 ## Running / Development
+
+* ember server --port <port>
+e.g. ember server --port 4201 will start server with port 4201.
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
